@@ -14,6 +14,11 @@ This link will share my review code for my three artifacts prior to the enhancem
 [(https://youtu.be/QIdddSRyDiY)]
 
 
+### Enhancement One - CS-330
+
+This links to both my artifact and the enhancement of said project. This improves scene design by refactoring object structure and transformations to create a more efficient and maintainable rendering system.
+
+[(https://github.com/CodeD1258/CS330.git)]
 
 
-
+###
