@@ -21,4 +21,8 @@ This links to both my artifact and the enhancement of said project. This improve
 [(https://github.com/CodeD1258/CS330.git)]
 
 
-###
+### Enhancement Two -  CS-340
+
+This links to both my artifact and the enhancement of said project. This improved algorithm efficiency by converting conditional filtering logic into a dictionary-based lookup for cleaner and more maintainable code.
+
+[(https://github.com/CodeD1258/CS340.git)]
