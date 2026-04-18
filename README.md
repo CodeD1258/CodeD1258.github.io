@@ -1,5 +1,10 @@
 # Christopher Disla ePortfolio 
 
+### Purpose
+
+The purpose of this project is to showcase the skills and knowledge I have developed throughout the Computer Science program by applying them to real-world artifacts. Through this ePortfolio, I demonstrate my ability to design, analyze, and improve software solutions across key areas including software engineering, algorithms and data structures, and databases. Each enhancement reflects not only technical improvements, but also my growth in writing more efficient, scalable, and secure code. Overall, this project highlights my readiness to transition into a professional role by showing how I can evaluate existing systems, implement meaningful improvements, and communicate those changes effectively.
+
+
 ### Self Assessment
 
 This link will share to my Self Assessment where I went into detail on my professional journal in the Computer Science Program. This includes my enhancements made to three artifacts I've made
